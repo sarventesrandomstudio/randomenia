@@ -1,118 +1,107 @@
-1. KULLANIM KOŞULLARI (ŞARTLAR VE KOŞULLAR)
+1. KULLANIM KOŞULLARI VE ÜYELİK SÖZLEŞMESİ
 
 Son Güncelleme: 15 Kasım 2026
 
-Randomenia ("Platform") platformuna hoş geldiniz. Bu platform, Sarvente's Random Studio ("Geliştirici") tarafından bireysel/bağımsız bir proje olarak geliştirilmektedir. Platforma kayıt olarak veya platformu kullanarak aşağıdaki Kullanım Koşullarını kabul etmiş sayılırsınız.
-1. Hizmetin Niteliği ve Beta (Test) Aşaması
+1. Taraflar ve Konu
+İşbu Kullanım Koşulları ("Sözleşme"), Randomenia platformunun geliştiricisi ve yöneticisi olan Sarvente's Random Studio ("Geliştirici") ile platforma üye olan kullanıcı ("Kullanıcı") arasındadır. Randomenia, bağımsız bir sosyal medya platformudur.
 
-    Randomenia şu anda erken erişim / test (Beta) aşamasındadır. Platformdaki özellikler geliştirilmeye devam etmekte olup zaman zaman kesintiler, yazılım hataları (bug), tasarım değişiklikleri veya beklenmeyen veri kayıpları yaşanabilir.
+2. Erken Erişim / Beta Aşaması Sorumluluk Reddi
 
-    Geliştirici, platformu önceden haber vermeksizin güncelleme, değiştirme veya geçici/kalıcı olarak durdurma hakkını saklı tutar.
+    Randomenia şu anda erken erişim / test (Beta) aşamasındadır. Platform kesintilere, güncellemelere, yazılım hatalarına (bug) veya beklenmeyen veri kayıplarına açık olabilir.
 
-2. Yaş Sınırı
+    Geliştirici, platformu önceden bildirimde bulunmaksızın değiştirme, askıya alma veya sonlandırma hakkını saklı tutar. Platform "olduğu gibi" sunulur; test aşamasındaki yazılımdan doğabilecek olumsuzluklarda geliştirici sorumlu tutulamaz.
 
-    Randomenia platformunu kullanabilmek ve hesap oluşturabilmek için en az 16 yaşında olmanız gerekmektedir. 16 yaşından küçük kişilerin platforma kayıt olması kesinlikle yasaktır.
+3. Yaş Sınırı
 
-3. Hesap Güvenliği ve Kalıcı Silme
+    Platformu kullanabilmek ve üye olabilmek için en az 16 yaşında olmak gerekmektedir. 16 yaş altı kişilerin üye olması yasaktır.
 
-    Kayıt olurken gerçek adınızı kullanmanız zorunlu değildir; ancak seçtiğiniz kullanıcı adının başkalarının haklarını ihlal etmemesi gerekir.
+4. Hesap Oluşturma, Güvenlik ve Kalıcı Silme
 
-    Hesap şifrenizin güvenliğinden tamamen siz sorumlusunuz.
+    Kayıt Bilgileri: Gerçek adınızı kullanma zorunluluğu yoktur; ancak seçtiğiniz kullanıcı adının ve profil unsurlarının üçüncü kişilerin haklarını ihlal etmemesi gerekir. Şifre güvenliğinden tamamen kullanıcı sorumludur.
 
-    Anında ve Kalıcı Hesap Silme: Hesabınızı dilediğiniz zaman Ayarlar menüsünden silebilirsiniz. Silme işlemine onay verdiğiniz anda herhangi bir bekleme süresi olmaksızın hesabınız ve tüm verileriniz sistemden anında ve kalıcı olarak silinir. Silinen hesapların veya verilerin geri getirilmesi teknik olarak mümkün değildir.
+    Anında Hesap Silme: Kullanıcılar hesaplarını diledikleri zaman Ayarlar menüsünden kalıcı olarak silebilirler. Silme onayının ardından herhangi bir bekleme süresi olmaksızın tüm profil verileri ve gönderiler sistemden anında ve geri döndürülemez biçimde silinir.
 
-4. İçerik Kuralları ve Yasaklar
+5. Moderasyon, Şikayet ve Ban (Uzaklaştırma) Politikası
 
-Randomenia özgür bir paylaşım alanı sunmayı hedefler; ancak topluluk güvenliği ve yasalar gereği aşağıdaki içerik ve davranışlar kesinlikle yasaktır:
+    Şikayet Süreci: Şimdilik kural ihlalleri, telif veya uygunsuz içerik bildirimleri paperosprey.imaginary472@passinbox.com adresi üzerinden toplanmakta olup, ilerleyen süreçte platform içi raporlama (report) sistemi entegre edilecektir.
 
-    Müstehcen ve Yetişkin İçerikler: Pornografi, çıplaklık veya cinsel içerikli (NSFW) her türlü görsel, video ve metin paylaşımı yasaktır.
+    Ban Durumu: Kuralları ihlal eden veya topluluk güvenliğini tehdit eden kullanıcıların hesapları Geliştirici tarafından engellenebilir (banlanabilir). Banlanan hesapların profilleri sistemden tamamen silinmez; diğer kullanıcılar tarafından profil sayfasında "Bu hesap banlandı / askıya alındı" ibaresiyle görünür şekilde tutulmaya devam edebilir.
 
-    Yasadışı Faaliyetler: Türkiye Cumhuriyeti yasalarına ve uluslararası hukuka aykırı içerikler, nefret söylemi, taciz, tehdit, şiddete teşvik ve telif hakkı ihlali içeren paylaşımlar yapılamaz.
+6. Paylaşılan İçerikler ve Bağlantı (Link) Politikası
 
-    Platform İstismarı: Sistem açıklarını kötüye kullanmak, spam yapmak, bot kullanmak veya diğer kullanıcıların verilerini izinsiz toplamaya çalışmak yasaktır.
+    Randomenia üzerinde doğrudan dosya (sunucu tabanlı medya) yükleme özelliği bulunmamaktadır; içerikler harici bağlantılar (linkler) aracılığıyla paylaşılır.
 
-5. Hesap Askıya Alma ve Sonlandırma
+    Kullanıcılar paylaştıkları metinlerin ve harici bağlantıların yasal sorumluluğunun kendilerine ait olduğunu kabul eder. Geliştirici, harici linklerin yönlendirdiği üçüncü taraf sitelerin içeriklerinden veya güvenliğinden sorumlu değildir.
 
-    Geliştirici, işbu Kullanım Koşullarına aykırı davranan, topluluk huzurunu bozan veya platform güvenliğini tehdit eden kullanıcıların içeriklerini kaldırma ve hesaplarını önceden bildirim yapmaksızın kalıcı olarak kapatma hakkına sahiptir.
+7. Yasaklı İçerikler ve Davranışlar
 
-6. Sorumluluk Reddi
+    Pornografi, çıplaklık veya yetişkin içerikler (NSFW), yasadışı faaliyetler, nefret söylemi, taciz, spam, bot faaliyetleri ve sistem açıklarını istismar etmek kesinlikle yasaktır. Aykırı durumlarda hesaplar banlanır ve içerikler kaldırılır.
 
-    Platformda kullanıcılar tarafından paylaşılan gönderilerden tamamen ilgili kullanıcının kendisi sorumludur.
+8. İletişim
 
-    Platform "olduğu gibi" sunulmaktadır. Test aşamasındaki yazılımdan kaynaklanabilecek teknik aksaklıklardan veya veri kayıplarından Geliştirici sorumlu tutulamaz.
+    Soru, bildirim ve yasal talepleriniz için bize ulaşabileceğiniz e-posta adresi: paperosprey.imaginary472@passinbox.com
 
-7. İletişim
-
-    Kurallar, şikayetler veya platformla ilgili bildirimler için bize şu adresten ulaşabilirsiniz: paperosprey.imaginary472@passinbox.com
-
-    (Not: Bireysel/bağımsız bir ekip olduğumuz için mesajlara anında dönüş garantisi verememekteyiz; iletilerinize genellikle 1 hafta içinde yanıt verilmektedir.)
+    Not: Bireysel geliştirme süreci nedeniyle mesajlara anında yanıt verilememekte olup dönüşler genellikle 1 hafta içinde yapılmaktadır.
 
 2. GİZLİLİK POLİTİKASI
 
 Son Güncelleme: 15 Kasım 2026
 
-Randomenia olarak kullanıcılarımızın gizliliğine önem veriyoruz. Bu Gizlilik Politikası, Sarvente's Random Studio tarafından geliştirilen platformu kullandığınızda hangi verilerin toplandığını ve nasıl korunduğunu açıklar.
-1. Toplanan Veriler
+Sarvente's Random Studio olarak Randomenia platformunda gizliliğinize büyük önem veriyoruz. Bu politika, hangi verileri topladığımızı ve bunları nasıl koruduğumuzu açıklar.
 
-Platforma kayıt olduğunuzda ve özelliklerini kullandığınızda yalnızca hizmetin çalışması için gerekli olan şu veriler toplanır:
+1. Topladığımız Veriler Nelerdir?
 
-    Hesap Bilgileri: E-posta adresi, kullanıcı adı ve şifreniz (şifreniz veritabanında açık metin olarak değil, şifrelenmiş/hashlenmiş olarak saklanır).
+    Hesap ve Profil Verileri: E-posta adresiniz, kullanıcı adınız, şifreniz (güvenli bir şekilde hash'lenerek saklanır), yüklediğiniz profil fotoğrafı/banner, seçtiğiniz ülke bayrağı, rozetler, hitap tercihleri, profil arka plan dekorasyonları ve isteğe bağlı konum.
 
-    Profil Özelleştirmeleri: Yüklediğiniz profil fotoğrafı ve banner görseli, konum bilgisi (isteğe bağlı), kazandığınız rozetler, seçtiğiniz ülke bayrağı, tercih ettiğiniz hitaplar ve profil arka plan dekorasyonları.
+    İçerik Verileri: Platformda paylaştığınız gönderiler ve harici bağlantı linkleri.
 
-    Kullanıcı İçerikleri: Platformda paylaştığınız gönderiler.
+    Teknik Log Verileri: Sistem güvenliğini sağlamak amacıyla kaydedilen IP adresiniz.
 
-    Teknik Veriler: Sistem güvenliğini sağlamak ve kötüye kullanımı önlemek amacıyla yalnızca sunucu kayıtlarında (log) tutulan IP adresi.
+    Özel Not: Platformumuzda özel mesajlaşma (DM) özelliği bulunmamaktadır.
 
-2. Verilerin Kullanım Amacı ve Paylaşım Politikası
+2. Verileriniz Ne Amaçla Kullanılır ve Paylaşılır mı?
 
-    Toplanan veriler yalnızca hesabınızın oluşturulması, profilinizin görüntülenmesi, gönderilerinizin yayınlanması ve sistem hatalarının (loglar üzerinden) tespit edilmesi amacıyla kullanılır.
+    Toplanan veriler yalnızca hesabınızın çalışması, profilinizin gösterilmesi, gönderilerinizin listelenmesi ve güvenlik loglarının tutulması amacıyla işlenir.
 
-    Verileriniz Satılmaz ve Dağıtılmaz: Kişisel verileriniz hiçbir koşulda reklam şirketlerine, veri simsarlarına veya üçüncü şahıslara satılmaz, kiralanmaz ve dağıtılmaz.
+    Kesinlikle Veri Satışı Olmaz: Kişisel verileriniz hiçbir reklam ağına, şirkete veya üçüncü tarafa satılmaz, kiralanmaz ve ticaret konusu yapılmaz.
 
-3. Altyapı ve Üçüncü Taraf Hizmet Sağlayıcılar
+3. Çerez (Cookie) ve Takipçi Politikası
 
-    Platformun barındırılması ve veritabanı yönetimi için Vercel ve Supabase altyapıları kullanılmaktadır. Verileriniz bu hizmet sağlayıcıların güvenli sunucularında saklanır.
+    Platformumuzda kullanıcı deneyimini mahveden, reklam hedeflemesi yapan veya kullanıcıları izleyen hiçbir üçüncü taraf reklam takipçisi (tracker) veya analitik aracı bulunmamaktadır.
 
-4. Veri Saklama Süresi ve Silme Hakkı
+    Yalnızca oturumunuzun açık kalmasını ve güvenliğinizi sağlamak amacıyla teknik olarak zorunlu çerezler ve tarayıcı depolama alanları (Local/Session Storage) kullanılır.
 
-    Verileriniz hesabınız aktif olduğu sürece sistemde tutulur.
+4. Altyapı ve Veri Barındırma
 
-    Hesabınızı Ayarlar bölümünden sildiğinizde, tüm profil bilgileriniz, gönderileriniz ve hesap verileriniz bekleme süresi olmaksızın anında ve geri döndürülemez biçimde silinir.
+    Verileriniz ve altyapımız Vercel ve Supabase servislerinin güvenli bulut sunucularında barındırılmaktadır.
 
-5. İletişim
+5. Veri Saklama ve Anında Silme Hakkı
 
-    Gizlilikle ilgili sorularınız için paperosprey.imaginary472@passinbox.com adresine e-posta gönderebilirsiniz. Bireysel geliştirme süreci nedeniyle anında yanıt garanti edilmemekte olup mesajlara 1 hafta içinde dönüş yapılmaktadır.
+    Hesabınızı aktif kullandığınız sürece verileriniz saklanır.
+
+    Ayarlar menüsünden hesabınızı sildiğinizde, tüm verileriniz herhangi bir bekleme süresi olmaksızın anında ve kalıcı olarak sistemimizden silinir. (Banlanan hesapların verileri ise güvenlik ve şeffaflık politikası gereği askıda tutulabilir).
 
 3. KVKK AYDINLATMA METNİ
 
-6698 Sayılı Kişisel Verilerin Korunması Kanunu ("KVKK") Kapsamında Aydınlatma Metni
+6698 Sayılı Kişisel Verilerin Korunması Kanunu Kapsamında Bilgilendirme
+
 1. Veri Sorumlusu
+6698 sayılı KVKK uyarınca, Randomenia / Sarvente's Random Studio veri sorumlusu sıfatıyla kişisel verilerinizi işlemketedir.
 
-6698 sayılı Kişisel Verilerin Korunması Kanunu uyarınca kişisel verileriniz, veri sorumlusu sıfatıyla Randomenia / Sarvente's Random Studio ("Platform") tarafından aşağıda açıklanan kapsamda işlenmektedir.
-2. İşlenen Kişisel Veriler ve İşleme Amaçları
+2. İşlenen Kişisel Veriler ve Amaçları
 
-Platforma üye olmanız ve platformu kullanmanız kapsamında aşağıdaki kişisel verileriniz işlenmektedir:
+    Kimlik ve Hesap Bilgileri (Kullanıcı adı, e-posta): Üyelik oluşturulması ve kimlik doğrulaması.
 
-    Kimlik ve İletişim Verileri: Kullanıcı adı ve e-posta adresi (Üyelik işlemlerinin gerçekleştirilmesi ve hesap güvenliğinin sağlanması amacıyla).
+    Güvenlik Verileri (Şifre hash'i, IP logları): Sistem güvenliğinin sağlanması ve yasal yükümlülüklerin yerine getirilmesi.
 
-    İşlem Güvenliği Verileri: Şifre bilgileri ve IP adresi kayıtları (log) (Bilgi güvenliği süreçlerinin yürütülmesi ve yetkisiz erişimlerin engellenmesi amacıyla).
+    Görsel ve Sosyal Veriler (Profil fotoğrafları, bayraklar, hitaplar, rozetler, gönderiler): Platformun sosyal medya fonksiyonlarının sunulması.
 
-    Görsel ve Profil Verileri: Profil fotoğrafı, banner, isteğe bağlı konum, ülke bayrağı, hitap tercihi, rozetler, arka plan dekorasyonları ve paylaşılan gönderiler (Platformun temel sosyal medya fonksiyonlarının sunulması amacıyla).
+3. Verilerin Aktarıldığı Taraflar
+Kişisel verileriniz üçüncü şahıslara veya ticari kurumlara aktarılmaz. Yalnızca platformun teknik altyapısını barındıran Supabase ve Vercel sunucularının yurt dışı altyapılarında muhafaza edilir.
 
-3. Kişisel Verilerin Aktarılması
+4. Haklarınız ve Başvuru
+KVKK 11. maddesi kapsamındaki haklarınızı (verilerin silinmesini isteme, bilgi talep etme vb.) kullanmak için:
 
-    Kişisel verileriniz hiçbir surette üçüncü taraflara satılmamakta ve ticari amaçla aktarılmamaktadır.
+    Verilerinizi doğrudan Ayarlar > Hesabı Sil adımıyla anında silebilirsiniz.
 
-    Verileriniz, yalnızca platformun teknik altyapısını ve veritabanı barındırma hizmetini sağlayan Supabase ve Vercel firmalarının yurt dışında bulunan güvenli sunucularında barındırılmak amacıyla bu hizmet sağlayıcılara aktarılmaktadır.
-
-4. Kişisel Veri Toplamanın Yöntemi ve Hukuki Sebebi
-
-Kişisel verileriniz, platforma kayıt formu ve profil ayarları aracılığıyla elektronik ortamda; KVKK’nın 5. maddesinde belirtilen "bir sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olması", "veri sorumlusunun meşru menfaatleri için veri işlenmesinin zorunlu olması" ve yurt dışı sunucu aktarımı bakımından "açık rızanızın bulunması" hukuki sebeplerine dayanılarak toplanmaktadır.
-5. İlgili Kişinin Hakları (KVKK Madde 11) ve Başvuru Yöntemi
-
-KVKK’nın 11. maddesi uyarınca kişisel verilerinizin işlenip işlenmediğini öğrenme, bilgi talep etme, düzeltilmesini veya silinmesini isteme haklarına sahipsiniz.
-
-    Anında Silme: Verilerinizin silinmesi hakkınızı doğrudan platform içindeki Ayarlar > Hesabı Sil adımını kullanarak bekleme süresi olmaksızın anında gerçekleştirebilirsiniz.
-
-    E-posta Başvurusu: Diğer tüm talepleriniz için paperosprey.imaginary472@passinbox.com adresine yazabilirsiniz. Başvurularınıza bireysel geliştirme kapasitemiz dahilinde en geç 1 hafta içinde yanıt verilmeye çalışılmaktadır.
+    Diğer talepleriniz için paperosprey.imaginary472@passinbox.com adresine e-posta gönderebilirsiniz. Bireysel yapımız nedeniyle başvurularınıza en geç 1 hafta içinde geri dönüş sağlanmaktadır.
