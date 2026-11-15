@@ -28,7 +28,7 @@ Merhaba, ben **PaperOsprey**. Size **Randomenia**'yı tanıtacağım. Randomenia
 * Geliştirici, platformu önceden bildirimde bulunmaksızın değiştirme, askıya alma veya sonlandırma hakkını saklı tutar. Platform "olduğu gibi" sunulur; test aşamasındaki yazılımdan doğabilecek olumsuzluklarda geliştirici sorumlu tutulamaz.
 
 ## 3. Yaş Sınırı
-* Platformu kullanabilmek ve üye olabilmek için en az **16 yaşında** olmak gerekmektedir. 16 yaş altı kişilerin üye olması yasaktır. Bunun temel nedeni, platformda özgür düşünce hakkına ve yetkinliğine sahip bireylerin yer almasıdır.
+* Platformu kullanabilmek ve üye olabilmek için en az **16 yaşında** olmak gerekmektedir. 16 yaş altı kişilerin üye olması yasaktır. Bunun temel nedeni, platformda özgür düşüncelerin paylaşılabilmesi ve bazı konuların çocuklara uygun olmamasıdır. Platform'u çocuklara uygun hale getirilmesini talep etmeyiniz. **Platform çocuklara uygun değildir**
 
 ## 4. Hesap Oluşturma, Kullanıcı Adı ve Kalıcı Silme
 * **Kayıt Bilgileri:** Gerçek adınızı kullanma zorunluluğu yoktur; ancak seçtiğiniz kullanıcı adının ve profil unsurlarının üçüncü kişilerin haklarını ihlal etmemesi gerekir. Şifre güvenliğinden tamamen kullanıcı sorumludur.
