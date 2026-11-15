@@ -1,4 +1,4 @@
-# Randomenia
+# Randomenia *Erken Erişim*
 
 *metini gemini yazdı düzelt dedim değiştirmiş baya pardon beyler bayanlar*
 
