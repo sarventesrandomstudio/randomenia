@@ -8,6 +8,8 @@ Platform yapay zeka'nın yardımı ile oluşturulmuştur ancak insan eli ile yaz
 
 Kural ihlalinde hesabınız uyarı almadan YASAKLANIR ancak bu yasaklama genelde kısa bir süre olur. Hafif olaylarda hesabınıza 1-2 saat erişemeyebilirsiniz.
 
+Platformda görünen adınızı değiştirebilirsiniz ancak kullanıcı adınızı değiştiremezsiniz. Kullanıcı adı sadece şu durumlarda değiştirilmesini isteyebilirsiniz : Kullanıcı adındaki harflerin büyüklüğünü değiştirmek, kullanıcı adınız eğer gerçek bilgilerinizi içeriyorsa ve bundan dolayı endişe duyuyorsanız (bu istek sadece 1 kez geçerlidir).
+
 --------------------------
 # KULLANIM KOŞULLARI VE ÜYELİK SÖZLEŞMESİ
 *Son Güncelleme: 15 Kasım 2026*
