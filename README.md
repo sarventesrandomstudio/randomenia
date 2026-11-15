@@ -6,6 +6,7 @@ Merhaba, ben **PaperOsprey**. Size **Randomenia**'yı tanıtacağım. Randomenia
 
 * **Sahipler:** PaperOsprey ve EveryFoxIsAwesome
 * **Resmi Platform Hesabı:** `@randomenia`
+* **2. Kurucunun Platform Hesabı:** `@everyfoxisawesome`
 * **İletişim E-postası:** `paperosprey.imaginary472@passinbox.com` *(Bireysel geliştirme süreci nedeniyle mesajlara anında yanıt verilememekte olup dönüşler genellikle 1 hafta içinde yapılmaktadır.)*
 * **Geliştirme Notu:** Platform yapay zekanın yardımıyla oluşturulmuştur; ancak insan eliyle yazılmış kodlar da içermektedir.
 
