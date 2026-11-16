@@ -1,78 +1,164 @@
+ <div align="center">
+   
 # Randomenia!
 
-Randomenia'ya Hoşgeldiniz! Burası internetin şuanki veri canavarı ve gizlilik düşmanı halinden rahatsız olduğumdan dolayı yapmış olduğum bir projedir. Amacım kesinlikle ama kesinlikle kimseye düşman/rakip olmak değil, sadece hobi ve eğlence amaçlıdır.
+</a>
 
+**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
+
+</div>
+
+<div align="center">
+
+### *✦ Sarvente's Random Studio ✦*
+
+</div>
+
+> Randomenia'ya Hoşgeldiniz! Burası internetin şuanki veri canavarı ve gizlilik düşmanı halinden rahatsız olduğumdan dolayı yapmış olduğum bir projedir. Amacım kesinlikle ama kesinlikle kimseye düşman/rakip olmak değil, sadece hobi ve eğlence amaçlıdır.
+
+<div align="center">
+
+**━━━━━━━━━━━━━━━ ◆ ━━━━━━━━━━━━━━━**
 
 # Genelde Sorulan Sorular :
 
-## Ne bu randomenia?
+**━━━━━━━━━━━━━━━ ◆ ━━━━━━━━━━━━━━━**
+
+</div>
+
+<details>
+<summary><strong>Ne bu randomenia?</strong></summary>
 
 Randomenia kullanıcıların içerik paylaşıp sosyalleşebileceği bir sosyal medya platformudur ve bu platformu kendi evin gibi özelleştirmen için elimizden geleni yapıyoruz! Birçok özellik bedavadır ve bedava kalmaya devam edecektir.
 
-## Platformdaki resmi hesap hangi hesap?
+</details>
+
+<details>
+<summary><strong>Platformdaki resmi hesap hangi hesap?</strong></summary>
 
 Randomenia'da bulunan hesaplardan **@randomenia** ve **@everyfoxisawesome** resmi hesaplardır.
 
-## İstediğim herşeyi paylaşabilirmiyim?
+</details>
+
+<details>
+<summary><strong>İstediğim herşeyi paylaşabilirmiyim?</strong></summary>
 
 Hem evet hem hayır. Randomenia özellikle korkmadan ve çekinmeden paylaşım yapmanız için oluşturulmuştur. Topluluk kurallarımıza uyduğunuz sürece istediğiniz herşeyi paylaşabilirsiniz!
 
-## BENİ İSRAİLEMİ SATIYORSUNUZ?
+</details>
+
+<details>
+<summary><strong>BENİ İSRAİLEMİ SATIYORSUNUZ?</strong></summary>
 
 Hayır seni israile satmıyoruz. Randomenia reklam veya veri satışı amacıyla çalışmaz. Ancak platformun çalışması için Supabase, Vercel ve Brevo gibi hizmet sağlayıcılar belirli verileri işleyebilir. :D
 
-## Kurucu ile çay içebilirmiyim?
+</details>
+
+<details>
+<summary><strong>Kurucu ile çay içebilirmiyim?</strong></summary>
 
 Evet içebilirsin 😄 Randomenia'nın kurucuları ile çekinmeden sosyalleşebilirsin.
 
-## Birgün Randomenia kapatılırsa verilerime ne olucak?
+</details>
+
+<details>
+<summary><strong>Birgün Randomenia kapatılırsa verilerime ne olucak?</strong></summary>
 
 Randomenia bir gün kapanırsa kullanıcılar önceden bilgilendirilecek ve verilerini indirebilmeleri için süre tanınacaktır. Kapanışın ardından kullanıcı verileri silinecektir. Teknik yedeklerdeki ve hizmet sağlayıcılardaki kopyaların silinmesi ise ilgili saklama sürelerine bağlı olabilir.
 
-## Sana neden güvenelim?
+</details>
+
+<details>
+<summary><strong>Sana neden güvenelim?</strong></summary>
 
 Bana güvenmeniz için seni zorlamayacağım çünkü beni tanımıyorsunuz ve güvenmemeniz normal. Platformun Frontend'i açık kaynaktır ve yakında repomuza eklenicektir. Eğer şüpheniz var ise bakabilirsiniz.
 
-## Sen kimsin?
+</details>
+
+<details>
+<summary><strong>Sen kimsin?</strong></summary>
 
 Ben PaperOsprey, Gerçek adımı şuanda kullanmıyorum.
 
-## Reddit'e rakipmi olmaya çalışıyorsun?
+</details>
+
+<details>
+<summary><strong>Reddit'e rakipmi olmaya çalışıyorsun?</strong></summary>
 
 Kesinlikle hayır. Kimseye rakip olmaya çalışmıyorum.
 
-## Randomenia ücretsiz mi?
+</details>
+
+<details>
+<summary><strong>Randomenia ücretsiz mi?</strong></summary>
 
 Evet ücretsiz. Ve ücretsiz kalmaya devam edicek.
 
-## Hesabımı nasıl silebilirim?
+</details>
+
+<details>
+<summary><strong>Hesabımı nasıl silebilirim?</strong></summary>
 
 Ayarlardan silebilirsin.
 
-## Verilerimi indirebilir miyim?
+</details>
+
+<details>
+<summary><strong>Verilerimi indirebilir miyim?</strong></summary>
 
 Evet! Ayarlardan verilerinin bir kısmını JSON formatında indirebilirsin.
 
-## Hesabım yasaklanırsa itiraz edebilir miyim?
+</details>
+
+<details>
+<summary><strong>Hesabım yasaklanırsa itiraz edebilir miyim?</strong></summary>
 
 Evet bize ulaşarak itiraz edebilirsin.
 
-## Randomenia'nın kaynak kodlarını nereden görebilirim?
+</details>
+
+<details>
+<summary><strong>Randomenia'nın kaynak kodlarını nereden görebilirim?</strong></summary>
 
 Randomenia'nın frontend kaynak kodları MIT lisansı altında GitHub repomuzda herkese açıktır. Ancak sunucu tarafındaki kodlar açık kaynak değildir.
 
-## Bir sorun veya güvenlik açığı bulursam kime bildirebilirim?
+</details>
+
+<details>
+<summary><strong>Bir sorun veya güvenlik açığı bulursam kime bildirebilirim?</strong></summary>
 
 Bir güvenlik açığı bulursan **mail.randomenia@gmail.com** adresinden bize bildirebilirsin. Kullanıcı adını da e-postana eklersen uygun görülen bildirimler için ödüllendirilebilirsin. Lütfen açığı herkese açık paylaşmadan önce bize haber ver!
 
-## Randomenia hangi teknolojileri kullanıyor?
+</details>
+
+<details>
+<summary><strong>Randomenia hangi teknolojileri kullanıyor?</strong></summary>
 
 Supabase, Vercel ve Brevo.
 
-## Çocuklar Randomenia'yı kullanabilir mi?
+</details>
+
+<details>
+<summary><strong>Çocuklar Randomenia'yı kullanabilir mi?</strong></summary>
 
 Hayır. Randomenia yalnızca 16 yaş ve üzerindeki kullanıcılar içindir. 16 yaşından küçük bir kullanıcının platformda bulunduğunu düşünüyorsan bize bildirebilirsin.
 
---------------------------------------------------------------
+</details>
+
+<div align="center">
+
+**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
+
+</div>
+
+<div align="center">
 
 Randomenia senin için her zaman hazır ancak sen hazır değilsin! Senide aramızda görmeyi dört gözle bekliyoruz. Kendine iyi bak!
+
+</div>
+
+<div align="center">
+
+**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
+
+</div>
