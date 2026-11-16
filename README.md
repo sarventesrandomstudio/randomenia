@@ -41,6 +41,38 @@ Ben PaperOsprey, Gerçek adımı şuanda kullanmıyorum.
 
 Kesinlikle hayır. Kimseye rakip olmaya çalışmıyorum.
 
+## Randomenia ücretsiz mi?
+
+Evet ücretsiz. Ve ücretsiz kalmaya devam edicek.
+
+## Hesabımı nasıl silebilirim?
+
+Ayarlardan silebilirsin.
+
+## Verilerimi indirebilir miyim?
+
+Evet indirilebilirsin.
+
+## Hesabım yasaklanırsa itiraz edebilir miyim?
+
+Evet bize ulaşarak itiraz edebilirsin.
+
+## Randomenia'nın kaynak kodlarını nereden görebilirim?
+
+Yakında repomuzda olacaktır! Görebilirsin geldiği zaman.
+
+## Bir sorun veya güvenlik açığı bulursam kime bildirebilirim?
+
+E-POSTA atarak bana bildirebilirsin. E-POSTA'ya kullanıcı adını eklersen ödüllendirilebilirsin :D
+
+## Randomenia hangi teknolojileri kullanıyor?
+
+Supabase, Vercel ve Brevo.
+
+## Çocuklar Randomenia'yı kullanabilir mi?
+
+Hayır platform çocuklara uygun değildir sadece 16 yaş ve üzeri içindir. Çocuğunuz 16 yaşından küçükse ve Randomenia kullanıyorsa bize şikayet edebilirsiniz.
+
 --------------------------------------------------------------
 
 Randomenia senin için her zaman hazır ancak sen hazır değilsin! Senide aramızda görmeyi dört gözle bekliyoruz. Kendine iyi bak!
