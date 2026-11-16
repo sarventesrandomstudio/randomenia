@@ -19,7 +19,7 @@ Hem evet hem hayır. Randomenia özellikle korkmadan ve çekinmeden paylaşım y
 
 ## BENİ İSRAİLEMİ SATIYORSUNUZ?
 
-Hayır seni israile satmıyoruz. Verileri kimseye satmıyoruz.
+Hayır seni israile satmıyoruz. Verilerini kimseye satmamaya özen gösteriyoruz ancak kullandığımız alt yapılar bunu yapıyor olabilir. Bizim tarafımızda satmıyoruz :D
 
 ## Kurucu ile çay içebilirmiyim?
 
@@ -27,7 +27,7 @@ Evet içebilirsin 😄 Randomenia'nın kurucuları ile çekinmeden sosyalleşebi
 
 ## Birgün Randomenia kapatılırsa verilerime ne olucak?
 
-Silinicek. Hiçbir şekilde verilerin tutulmayacak.
+Randomenia bir gün kapanırsa kullanıcılar önceden bilgilendirilecek ve verilerini indirebilmeleri için süre tanınacaktır. Kapanışın ardından kullanıcı verileri silinecektir. Teknik yedeklerdeki ve hizmet sağlayıcılardaki kopyaların silinmesi ise ilgili saklama sürelerine bağlı olabilir.
 
 ## Sana neden güvenelim?
 
