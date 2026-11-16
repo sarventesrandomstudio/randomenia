@@ -19,7 +19,7 @@ Hem evet hem hayır. Randomenia özellikle korkmadan ve çekinmeden paylaşım y
 
 ## BENİ İSRAİLEMİ SATIYORSUNUZ?
 
-Hayır seni israile satmıyoruz. Verilerini kimseye satmamaya özen gösteriyoruz ancak kullandığımız alt yapılar bunu yapıyor olabilir. Bizim tarafımızda satmıyoruz :D
+Hayır seni israile satmıyoruz. Randomenia reklam veya veri satışı amacıyla çalışmaz. Ancak platformun çalışması için Supabase, Vercel ve Brevo gibi hizmet sağlayıcılar belirli verileri işleyebilir. :D
 
 ## Kurucu ile çay içebilirmiyim?
 
@@ -51,7 +51,7 @@ Ayarlardan silebilirsin.
 
 ## Verilerimi indirebilir miyim?
 
-Evet indirilebilirsin.
+Evet! Ayarlardan verilerinin bir kısmını JSON formatında indirebilirsin.
 
 ## Hesabım yasaklanırsa itiraz edebilir miyim?
 
@@ -59,11 +59,11 @@ Evet bize ulaşarak itiraz edebilirsin.
 
 ## Randomenia'nın kaynak kodlarını nereden görebilirim?
 
-Yakında repomuzda olacaktır! Görebilirsin geldiği zaman.
+Randomenia'nın frontend kaynak kodları MIT lisansı altında GitHub repomuzda herkese açıktır. Ancak sunucu tarafındaki kodlar açık kaynak değildir.
 
 ## Bir sorun veya güvenlik açığı bulursam kime bildirebilirim?
 
-E-POSTA atarak bana bildirebilirsin. E-POSTA'ya kullanıcı adını eklersen ödüllendirilebilirsin :D
+Bir güvenlik açığı bulursan **mail.randomenia@gmail.com** adresinden bize bildirebilirsin. Kullanıcı adını da e-postana eklersen uygun görülen bildirimler için ödüllendirilebilirsin. Lütfen açığı herkese açık paylaşmadan önce bize haber ver!
 
 ## Randomenia hangi teknolojileri kullanıyor?
 
@@ -71,7 +71,7 @@ Supabase, Vercel ve Brevo.
 
 ## Çocuklar Randomenia'yı kullanabilir mi?
 
-Hayır platform çocuklara uygun değildir sadece 16 yaş ve üzeri içindir. Çocuğunuz 16 yaşından küçükse ve Randomenia kullanıyorsa bize şikayet edebilirsiniz.
+Hayır. Randomenia yalnızca 16 yaş ve üzerindeki kullanıcılar içindir. 16 yaşından küçük bir kullanıcının platformda bulunduğunu düşünüyorsan bize bildirebilirsin.
 
 --------------------------------------------------------------
 
