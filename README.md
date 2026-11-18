@@ -1,3 +1,6 @@
+> [!WARNING]  
+> **Proje şu anda bakım aşamasındadır; bu nedenle siteye erişemeyebilirsiniz.**
+ 
  <div align="center">
    
 # Randomenia!
