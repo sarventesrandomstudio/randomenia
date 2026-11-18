@@ -1,5 +1,5 @@
 > [!WARNING]  
-> **Proje şu anda bakım aşamasındadır; bu nedenle siteye erişemeyebilirsiniz.**
+> **/docs henüz güncellenmemiştir. En kısa zamanda güncellenecektir.**
  
  <div align="center">
    
