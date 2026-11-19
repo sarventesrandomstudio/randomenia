@@ -1,8 +1,8 @@
 # Randomenia Gizlilik Politikası
 
-**Son güncelleme:** 16 Kasım 2026
+**Son güncelleme:** 19 Kasım 2026
 
-Randomenia olarak kullanıcı gizliliğine önem veriyoruz. Bu politika, hangi verileri kullandığımızı ve bunları nasıl işlediğimizi açıklar.
+AMAN TANRIM VERİMİ TOPLUYORSUN!? Ehm hayır toplamıyoruz ancak 100% güvenliyiz demek yalan olur çünkü hiçbirşey öyle değildir. Bu belgede size yeteri kadar bilgi vermeye çalışacağım gizlilik için.
 
 ### 1. Toplanan bilgiler
 
@@ -39,7 +39,7 @@ E-posta adresleri reklam veya pazarlama amacıyla kullanılmaz.
 Randomenia şu hizmetlerden yararlanır:
 
 - **Supabase:** Hesap, kimlik doğrulama ve veritabanı hizmetleri.
-- **Vercel:** Uygulama barındırma ve dağıtım.
+- **Vercel:** Uygulama barındırma ve dağıtım. Ayrıca bu hizmet siteye erişen kişilerin IP adresini güvenlik için kayıtta tutar.
 - **Brevo:** E-posta gönderimi.
 
 Bu hizmetlere yalnızca hizmetin sunulması için gerekli verilerin aktarılması hedeflenir. Sağlayıcıların kendi teknik kayıtları ve alt hizmet sağlayıcıları da bulunabilir.
@@ -48,7 +48,7 @@ Bu hizmetlere yalnızca hizmetin sunulması için gerekli verilerin aktarılmas�
 
 Randomenia yöneticileri moderasyon ve hesap yönetimi amacıyla kullanıcı gönderilerini, yorumlarını ve belirli hesap bilgilerini görebilir.
 
-Şu anda iki Owner hesabı yönetim yetkisine sahiptir. Yönetici işlemleri kaydedilir ve bu işlem kayıtlarını yalnızca kurucu görüntüleyebilir.
+2 tane kurucu bulunmasına rağmen ana kurucu (yani ben) daha fazla yetkiye sahiptir ve diğer kurucu SİZİN VERİLERİNİZİ GÖREMEZ. Yönetici işlemleri kaydedilir ve bu işlem kayıtlarını yalnızca kurucu görüntüleyebilir.
 
 Platformda özel mesajlaşma sistemi bulunmaz.
 
@@ -64,7 +64,7 @@ Harici sitelerin gizlilik uygulamalarından Randomenia sorumlu değildir.
 
 ### 7. Verilerin silinmesi
 
-Hesabını ayarlardan silebilirsin. Hesabınla ilişkili kullanıcı verileri silme sürecine alınır.
+Hesabını ayarlardan silebilirsin. Hesabınla ilişkili kullanıcı verileri silme işlemini kabul ettiğin an silinir.
 
 Ancak yedekler, teknik loglar ve hizmet sağlayıcı kayıtlarının silinmesi farklı süreler alabilir. Bu nedenle bütün teknik kopyaların anında silineceği garanti edilmez.
 
