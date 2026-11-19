@@ -1,14 +1,14 @@
 # Randomenia Topluluk Kuralları
 
-**Son güncelleme:** 16 Kasım 2026
+**Son güncelleme:** 19 Kasım 2026
 
-Randomenia özgür düşünceyi, farklı görüşleri ve fikir alışverişini destekler. Ancak bu özgürlük başkalarına zarar verme hakkı değildir.
+RANDOMENIA! Çok havalı bir isim değilmi? Burada özgürsünüz ancak bu özgürlük size başkalarını rahatsız etme hakkı vermez veya ayrıcalık tanımaz. Bu belgede size uymanız gereken kurallar anlatılıyor ve uymazsanız kazandığınız özgürlüğü Randomenia'da tekrardan kazanamayabilirsiniz. Korkutmak için demiyorum yaa sonuçta hepimiz insanız ve hepimizin yapması ve yapmaması gereken şeyler var 🥺
 
 ### Yasaklanan içerikler
 
 **1. Cinsel içerik**
 - Pornografi ve açık cinsel içerik yasaktır.
-- Çocukların cinsel istismarına ilişkin içerik kesinlikle yasaktır.
+- Çocukların cinsel istismarına ilişkin içerik KESİNLİKE yasaktır ve hiçbir durumda AFFI YOKTUR.
 - Açık çıplaklık ve cinsel organların gösterilmesi yasaktır.
 - Vücut özellikleri tek başına ihlal sebebi değildir; sunuluş biçimi ve amaç dikkate alınır.
 - Eğitim ve sağlık içerikleri bağlamına göre değerlendirilir.
@@ -32,7 +32,7 @@ Irk, milliyet, din, engellilik ve benzeri özellikler üzerinden aşağılama ve
 
 **6. Kişisel bilgilerin ifşası**
 
-Başkalarının adresini, telefonunu, gerçek adını, özel fotoğraflarını veya kişisel bilgilerini izinsiz paylaşmak kesinlikle yasaktır.
+Başkalarının adresini, telefonunu, gerçek adını, özel fotoğraflarını veya kişisel bilgilerini izinsiz paylaşmak KESİNLİKLE yasaktır ve hiçbir durumda AFFI YOKTUR.
 
 **7. Dolandırıcılık ve taklit**
 
@@ -70,4 +70,4 @@ Yardım istemek için “Yardıma İhtiyacım Var”, duygu ve düşüncelerini 
 
 ### Sonuç
 
-Kurallara aykırı içerikler kaldırılabilir ve hesaplara yaptırım uygulanabilir. “Şaka yaptım” veya “ifade özgürlüğü” demek, ihlali otomatik olarak ortadan kaldırmaz.
+Kurallara aykırı içerikler kaldırılabilir ve hesaplara yaptırım uygulanabilir. “Şaka yaptım” veya “ifade özgürlüğü” demek, ihlali otomatik olarak ortadan kaldırmaz. Uslu uslu takıl ve kuralları çiğneme, Randomenia seni seviyor!
