@@ -1,5 +1,14 @@
 > [!WARNING]  
-> **/docs henüz güncellenmemiştir. En kısa zamanda güncellenecektir.**
+> **/docs 'da değiştirilmesi gereken birşey varsa veya birşeyin eklenmesi/kaldırılması gerekiyorsa bize ulaşın!**
+
+> [!CAUTION]
+>  **Proje şuanda erken erişim aşamasındadır ve henüz tam potansiyelinde değildir. Sitede açıklar, eksikler, hatalar veya yavaşlık gibi sorunlar bulunabilir.**
+
+> [!NOTE]
+> Bizimle iletişime geçmek isterseniz **mail.randomenia@gmail.com** adresine ulaşabilirsiniz.
+
+> [!TIP]
+> Kimseye güvenmeyin!
  
  <div align="center">
    
@@ -117,13 +126,6 @@ Evet! Ayarlardan verilerinin bir kısmını JSON formatında indirebilirsin.
 <summary><strong>Hesabım yasaklanırsa itiraz edebilir miyim?</strong></summary>
 
 Evet bize ulaşarak itiraz edebilirsin.
-
-</details>
-
-<details>
-<summary><strong>Randomenia'nın kaynak kodlarını nereden görebilirim?</strong></summary>
-
-Randomenia'nın frontend kaynak kodları MIT lisansı altında GitHub repomuzda herkese açıktır. Ancak sunucu tarafındaki kodlar açık kaynak değildir.
 
 </details>
 
